@@ -8,3 +8,4 @@ workspace -fr "renderData" "renderData";
 workspace -fr "fileCache" "cache/nCache";
 workspace -fr "scene" "scenes";
 workspace -fr "sourceImages" "sourceimages";
+workspace -fr "images" "renders";
